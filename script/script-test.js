@@ -1,1 +1,0 @@
-console.log( "FlashLife WebSite V1.3" );
