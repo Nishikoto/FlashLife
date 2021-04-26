@@ -1,0 +1,97 @@
+/*
+FlashLife [FR-V2]
+-----------------
+
+CSS créer par Nishikoto__ et KLF_francky
+Site web créer par Nishikoto__ et KLF_francky
+*/
+body
+{
+	background:#272727;
+    color: white;
+	width: 1200px;
+    margin: auto;
+}
+
+.description
+{
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 1.05em;
+}
+
+.titre
+{
+    font-size: 3.5em; /* Ne pas mettre en pixel !!! */
+    font-family: 'Poppins', sans-serif;
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+
+.logo
+{
+    text-align: center;
+}
+
+.logoapp{
+    width:150px;
+}
+
+/*Nav*/
+.nav a {
+    text-decoration: none; 
+	color:white;
+    margin-top:20px;
+	margin-bottom:20px;
+	padding-left:50px;
+	width:100%;
+}
+/*bas de page */
+.FooterPage
+{
+    font-size: 0.8em;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+}
+/*Bouton page join*/
+.btn
+{
+    width: 150px;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    color: #fff;
+}
+/*lien serv*/
+.textbtn
+{
+    color: #fff;
+}
+/*page descriptif page join*/
+.description
+{
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 1.05em;
+}
+/* Nom serv page join */
+.titre
+{
+    font-size: 3.5em; /* Ne pas mettre en pixel !!! */
+    font-family: 'Poppins', sans-serif;
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+/*Logo serveur page join */
+.logo
+{
+    text-align: center;
+}
+
+.logoapp{
+    width:150px;
+}
